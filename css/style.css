@@ -1,0 +1,13 @@
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem!important;
+    margin-top: 10px !important;
+}
+.fa, .fas {
+    font-weight: 900;
+    color: antiquewhite;
+    font-size: 25px;
+}
+form{
+    margin-top: 25px;
+
+}
